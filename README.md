@@ -4,6 +4,6 @@
 - 📫 How to reach me yangtun0324@126.com
 
 <!---
-18855490607/18855490607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yang/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
